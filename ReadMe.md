@@ -186,3 +186,20 @@
 * [2025] Improved yolov12 with llm-generated synthetic data for enhanced apple detection and benchmarking against yolov11 and yolov10 [[Paper](https://doi.org/10.36227/techrxiv.174063173.30775475/v1)]
 * [2025] MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[Paper](https://doi.org/10.12794/metadc862838)]
 * [2025] Comprehensive analysis of transparency and accessibility of chatgpt, deepseek, and other sota large language models [[Paper](https://doi.org/10.20944/preprints202502.1608.v1)]
+
+## Citation 
+If you find this list useful please cite us in your papers !
+
+ ```bibtex
+@misc{sapkota2025review3dobjectdetection,
+      title={A Review of 3D Object Detection with Vision-Language Models}, 
+      author={Ranjan Sapkota and Konstantinos I Roumeliotis and Rahul Harsha Cheppally and Marco Flores Calero and Manoj Karkee},
+      year={2025},
+      eprint={2504.18738},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.18738}, 
+}
+```
+
+
